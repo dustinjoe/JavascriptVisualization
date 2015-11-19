@@ -1,5 +1,5 @@
 # JavascriptVisualization
-Use vis.js to visualiza a graph
+Use Vis.js to Visualize a Graph
 
 Requirement:
 Create a javascript library that can take data in the form:
