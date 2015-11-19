@@ -1,0 +1,10 @@
+{
+    name:"Some Graph",
+    nodes:[
+        {label:"abc", id:"1"},
+        {label:"def", id:"2"}
+    ],
+    edges:[
+        {label:"some connection",start:"1",end:"2"}
+    ]
+  }
