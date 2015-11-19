@@ -22,3 +22,7 @@ and the standard vis.js input format is the edge representation. So they can be 
   To draw the graph, html must be used(pure Node.js seems impossible). Go to the html file named "basicUsage.html", edit 
 the variable "DataIn" in the function "visualization". Close the file and use the browser to open the html. Click "Demo
 Draw" and the graph is drawn.
+
+Shortcoming:
+  I have tried to make a function of browsing the local directory to choose a input data for visualization. However, I have not succeeded in doing this job. Many online examples use ActiveX, which is useless now. And now I am trying to use File API
+but have not been successful.
