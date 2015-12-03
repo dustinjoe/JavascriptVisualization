@@ -1,7 +1,8 @@
-  var vis=require("vis.js");
-  
-  export.outLoadVisualization= function (data,container){
-  
+ 
+
+function outLoadVisualization(data,container){
+  //export.outLoadVisualization= function (data,container){
+      //var container = document.getElementById('mynetwork');
   	  var DataIn=data;
 
 	  var DataInStr=JSON.stringify(DataIn);
